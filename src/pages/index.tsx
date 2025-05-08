@@ -1,3 +1,10 @@
+/*
+ * @Author: huangjitao 164173925@qq.com
+ * @Date: 2025-05-08 09:20:29
+ * @LastEditors: huangjitao 164173925@qq.com
+ * @LastEditTime: 2025-05-08 10:09:56
+ * @Description: 
+ */
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
@@ -20,7 +27,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/python基础/Python基础班重点内容">
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
